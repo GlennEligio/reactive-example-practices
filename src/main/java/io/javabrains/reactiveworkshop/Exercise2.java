@@ -6,6 +6,7 @@ public class Exercise2 {
 
     public static void main(String[] args) throws IOException {
 
+
         // Use ReactiveSources.intNumbersFlux() and ReactiveSources.userFlux()
 
         // Print all numbers in the ReactiveSources.intNumbersFlux stream

@@ -1,0 +1,26 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(™¬–^
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö“”Áøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÓÕ¡úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´ç¦Ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊáÓ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ù÷
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÀˆ
+E
+java:S1611"/Remove the parentheses around the "f" parameter(®ºÀ
+B
+java:S1602",Remove useless curly braces around statement(®ºÀ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(®ºÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+B
+java:S1602",Remove useless curly braces around statement(Ö¤ŸÓ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÅõÍş
+U
+java:S1612%"?Replace this lambda with method reference 'User::getFirstName'.(¾äÊ…
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¾äÊ…
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ä¡øüüÿÿÿÿ
+a
+java:S1612)"?Replace this lambda with method reference 'User::getFirstName'.(Ö’÷„úÿÿÿÿ8ã¼’îÓ0
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ö’÷„úÿÿÿÿ
