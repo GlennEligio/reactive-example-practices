@@ -37,8 +37,14 @@ public class Exercise1 {
         users.stream().map(user -> user.getFirstName()).forEach(System.out::println);
 
         // Print first names in userStream for users that have IDs from number stream
+        // #1 using filter
         System.out.println("Print first names in userStream for users that have IDs from number stream");
         users.stream().filter(user -> numbers.contains(user.getId())).map(user -> user.getFirstName()).forEach(System.out::println);
+
+        // #2 using flatMap
+        numbers.stream().flatMap(id -> users.stream().filter(user -> user.getId() == id))
+                .map(user -> user.getFirstName())
+                .forEach(System.out::println);
     }
 
 }
